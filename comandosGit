@@ -1,0 +1,12 @@
+ls -enlista archivos dentro de la carpeta
+cd -cambiar de directorio
+touch - Crear un archivo
+mkdir -crear carpeta 
+nano -edita el archivo
+ls -lha -para listar archivos a detalle 
+rm -es para borrar 
+mv Mover archivo 
+code . -abrir visual studio code
+cat -visualizar el archivo
+
+
